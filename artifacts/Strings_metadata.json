@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"universitydegree_flat.sol": "Strings"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"universitydegree_flat.sol": {
+			"keccak256": "0x2540e53cefb033a2132e0811325a0f7e2ad179718c64c35514de5aa3b4126f65",
+			"urls": [
+				"bzz-raw://09aa3fa05b1f54b21379b19949bb8a7fbc261f6c5b690414a7415597397c20be",
+				"dweb:/ipfs/QmcrazxoKVevZotbF8XjKsPHoAyGRBWQFmaKDm33UJBkTx"
+			]
+		}
+	},
+	"version": 1
+}
