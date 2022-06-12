@@ -56,7 +56,6 @@
 			"name()": "06fdde03",
 			"ownerOf(uint256)": "6352211e",
 			"safeTransferFrom(address,address,uint256)": "42842e0e",
-			"safeTransferFrom(address,address,uint256,bytes)": "b88d4fde",
 			"setApprovalForAll(address,bool)": "a22cb465",
 			"supportsInterface(bytes4)": "01ffc9a7",
 			"symbol()": "95d89b41",
@@ -268,34 +267,6 @@
 					"internalType": "uint256",
 					"name": "tokenId",
 					"type": "uint256"
-				}
-			],
-			"name": "safeTransferFrom",
-			"outputs": [],
-			"stateMutability": "nonpayable",
-			"type": "function"
-		},
-		{
-			"inputs": [
-				{
-					"internalType": "address",
-					"name": "from",
-					"type": "address"
-				},
-				{
-					"internalType": "address",
-					"name": "to",
-					"type": "address"
-				},
-				{
-					"internalType": "uint256",
-					"name": "tokenId",
-					"type": "uint256"
-				},
-				{
-					"internalType": "bytes",
-					"name": "data",
-					"type": "bytes"
 				}
 			],
 			"name": "safeTransferFrom",

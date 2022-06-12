@@ -58,10 +58,10 @@
 	},
 	"sources": {
 		"universitydegree_flat.sol": {
-			"keccak256": "0x2540e53cefb033a2132e0811325a0f7e2ad179718c64c35514de5aa3b4126f65",
+			"keccak256": "0xd7d2b7327aa15ae226f2ffc0ea2db66f76f80b77022a0f09fbcc5b99b17c19a1",
 			"urls": [
-				"bzz-raw://09aa3fa05b1f54b21379b19949bb8a7fbc261f6c5b690414a7415597397c20be",
-				"dweb:/ipfs/QmcrazxoKVevZotbF8XjKsPHoAyGRBWQFmaKDm33UJBkTx"
+				"bzz-raw://14a6a82dc5502a84596a52e7b805f52c6b4a4c6e9f3796b503385d3bfc46e892",
+				"dweb:/ipfs/QmW3dWBpT1gn7hiBcWqrydo4YgSZiZF7YWMph8aPcmYSx7"
 			]
 		}
 	},
